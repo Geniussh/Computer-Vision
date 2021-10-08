@@ -1,4 +1,4 @@
-# Course Projects in Computer Vision at Carnegie Mellon University
+# Course Projects in Computer Vision at CMU
 
 [HW0](HW0/): Color Channel Alignment and Image Warping  
   
