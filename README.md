@@ -22,3 +22,10 @@
 - Real-Time Augmented Reality with High FPS
 - Panorama Generation based on Homography  
   
+[HW3](HW3/): Lucas-Kanade Object Tracking
+- Simple Lucas & Kanade Tracker with Naive Template Update
+- Lucas & Kanade Tracker with Template Correction
+- Two-dimensional Tracking with a Pure Translation Warp Function
+- Two-dimensional Tracking with a Plane Affine Warp Function
+- Lucas & Kanade Forward Additive Approach
+- Lucas & Kanade Inverse Compositional Approach
