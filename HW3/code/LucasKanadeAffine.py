@@ -37,7 +37,7 @@ def LucasKanadeAffine(It, It1, threshold, num_iters):
         # Jacobian = [x y 1 0 0 0
         #             0 0 0 x y 1]
         # A = grad * Jac = [dIx*x, dIx*y, dIx, dIy*x, dIy*y, dIy]
-        A = np.array([dIx * x, dIy * y, dIx, dIy * x, dIy * y, dIy]).T
+        A = np.array([dIx * x, dIx * y, dIx, dIy * x, dIy * y, dIy]).T
         dM = np.linalg.pinv(A.T @ A) @ A.T @ err.reshape(-1, 1)
 
         M[:2, :] = M[:2, :] + dM.reshape(2, 3)
