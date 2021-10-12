@@ -1,5 +1,6 @@
 # Course Projects in Computer Vision at CMU
-
+> ***Any Copying from the work of another person is a violation of [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).***
+  
 ### [HW0](HW0/): Color Channel Alignment and Image Warping  
 <img src="https://github.com/Geniussh/ComputerVision/blob/main/HW0/results/transformed.jpg" width="400px">
   
@@ -39,3 +40,5 @@
   <img src="https://github.com/Geniussh/ComputerVision/blob/main/HW3/result/car.gif" width="300px">
   <img src="https://github.com/Geniussh/ComputerVision/blob/main/HW3/result/aerial.gif" width="300px">
 </p>
+
+
