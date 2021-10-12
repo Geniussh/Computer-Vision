@@ -9,3 +9,22 @@
 * Run ```testAntSequence.py``` or ```testAerialSequence.py``` to see how **Lucas Kanade tracker** works on ```antseq.npy``` and ```aerialseq.npy```
 	* Modify ```SubtractDominantMotion.py``` to choose **[Lucas Kanade Forward Additive approach](https://www.ri.cmu.edu/pub_files/pub3/baker_simon_2002_3/baker_simon_2002_3.pdf)** or **[Lucas Kanade Inverse Compositional approach](https://www.ri.cmu.edu/pub_files/pub3/baker_simon_2003_3/baker_simon_2003_3.pdf)** (a faster variant of LK) as the tracker
 	* Modify ```SubtractDominantMotion.py``` to choose different combinations of erosion and dilation to visualize better results
+
+## Results
+* Lucas Kanade w/ Forward Additive approach on ```carseq.npy```  
+	* Baseline with naive template update in blue. Template correction in red.
+  
+![img](https://github.com/Geniussh/ComputerVision/blob/main/HW3/result/carseq_wcrt.png)
+
+* Lucas Kanade w/ Forward Additive approach on ```girlseq.npy```  
+	* Baseline with naive template update in blue. Template correction in red.
+  
+![img](https://github.com/Geniussh/ComputerVision/blob/main/HW3/result/girlseq_wcrt.png)
+
+* Lucas Kanade w/ Forward Additive approach or Inverse Compositional approach on ```antseq.npy```  
+  
+![img](https://github.com/Geniussh/ComputerVision/blob/main/HW3/result/ant.png)
+  
+* Lucas Kanade w/ Forward Additive approach or Inverse Compositional approach on ```aerialseq.npy```  
+  
+![img](https://github.com/Geniussh/ComputerVision/blob/main/HW3/result/aerial.png)
