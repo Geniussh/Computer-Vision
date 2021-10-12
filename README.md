@@ -2,7 +2,7 @@
 > ***Any Copying from the work of another person is a violation of [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).***
   
 ### [HW0](HW0/): Color Channel Alignment and Image Warping  
-<img src="https://github.com/Geniussh/ComputerVision/blob/main/HW0/results/transformed.jpg" width="400px">
+<img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW0/results/transformed.jpg" width="400px">
   
   
 ### [HW1](HW1/): Scene Classification System using Bag-of-words Approach with Spatial Pyramid Extension
@@ -26,7 +26,7 @@
 - Augmented Reality Application using Homography
 - Real-Time Augmented Reality with High FPS
 - Panorama Generation based on Homography  
-<img src="https://github.com/Geniussh/ComputerVision/blob/main/HW2/result/ar.gif" width="400px">
+<img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW2/result/ar.gif" width="400px">
   
   
 ### [HW3](HW3/): Lucas-Kanade Object Tracking
@@ -37,8 +37,8 @@
 - Lucas & Kanade Forward Additive Approach
 - Lucas & Kanade Inverse Compositional Approach
 <p float="left">
-  <img src="https://github.com/Geniussh/ComputerVision/blob/main/HW3/result/car.gif" width="300px">
-  <img src="https://github.com/Geniussh/ComputerVision/blob/main/HW3/result/aerial.gif" width="300px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/car.gif" width="300px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/aerial.gif" width="300px">
 </p>
 
 
