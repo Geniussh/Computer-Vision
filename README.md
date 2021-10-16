@@ -39,6 +39,7 @@
 <p float="left">
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/car.gif" width="300px">
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/aerial.gif" width="300px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/ant.gif" width="300px">
 </p>
 
 
