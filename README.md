@@ -37,9 +37,9 @@
 - Lucas & Kanade Forward Additive Approach
 - Lucas & Kanade Inverse Compositional Approach
 <p float="left">
-  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/car.gif" width="300px">
-  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/aerial.gif" width="300px">
-  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/ant.gif" width="300px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/car.gif" width="250px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/aerial.gif" width="250px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW3/result/ant.gif" width="250px">
 </p>
 
 
