@@ -6,21 +6,26 @@
     * Using the inlier correspondences and the RANSAC estimate of the extrinsics & 3D points as an intialization
   
 ## Results
-* Stereo Pair<p float="left">
+* Stereo Pair
+<p float="left">
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/data/im1.png" width="450px">
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/data/im1.png" width="450px">
 </p>
   
-* Epipolar Lines Visualization
+* Epipolar Lines Visualization  
+  
 ![image](https://user-images.githubusercontent.com/44150278/138610334-546ace26-0405-4a21-8a3f-0ee99ec970b8.png)
   
-* Matching Point Searching
+* Matching Point Searching  
+  
 ![image](https://user-images.githubusercontent.com/44150278/138610345-804a1b25-36a8-4df0-bedf-84602205c6f4.png)
   
-* 3D Reconstruction<p float="left">
+* 3D Reconstruction
+<p float="left">
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/result/rotation2.gif" width="450px">
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/result/rotation1.gif" width="450px">
  </p>
   
-* Bundle Adjustment w/ Nonlinear Optimization
+* Bundle Adjustment w/ Nonlinear Optimization  
+  
 ![image](https://user-images.githubusercontent.com/44150278/138610364-5800365e-393c-463d-954d-071d7e59e76c.png)
