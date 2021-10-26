@@ -8,8 +8,8 @@
 ## Results
 * Stereo Pair
 <p float="left">
-  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/data/im1.png" width="450px">
-  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/data/im1.png" width="450px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/data/im1.png" width="470px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/data/im1.png" width="470px">
 </p>
   
 * Epipolar Lines Visualization  
@@ -22,8 +22,8 @@
   
 * 3D Reconstruction
 <p float="left">
-  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/result/rotation2.gif" width="450px">
-  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/result/rotation1.gif" width="450px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/result/rotation2.gif" width="470px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/result/rotation1.gif" width="470px">
  </p>
   
 * Bundle Adjustment w/ Nonlinear Optimization  
