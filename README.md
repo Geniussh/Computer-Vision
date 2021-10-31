@@ -1,11 +1,11 @@
 # Course Projects in Computer Vision at CMU
 > ***Any Copying from the work of another person is a violation of [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).***
   
-### [HW0](HW0/): Color Channel Alignment and Image Warping  
+### [0: Color Channel Alignment and Image Warping ](HW0/)
 <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW0/results/transformed.jpg" width="400px">
   
   
-### [HW1](HW1/): Scene Classification System using Bag-of-words Approach with Spatial Pyramid Extension
+### [1: Scene Classification System using Bag-of-words Approach with Spatial Pyramid Extension](HW1/)
 - Feature Extraction based on Filter Banks
 - K Means Clustering
 - Visual Word Dictionary
@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/44150278/136886336-e9075072-380a-4dbb-9338-4f023448f83b.png" width="500px">
   
   
-### [HW2](HW2/): Augmented Reality with Planar Homographies
+### [2: Augmented Reality with Planar Homographies](HW2/)
 - Direct Linear Transform
 - Matrix Decomposition to calculate Homography
 - Limitations of Planar Homography
@@ -29,7 +29,7 @@
 <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW2/result/ar.gif" width="400px">
   
   
-### [HW3](HW3/): Lucas-Kanade Object Tracking
+### [3: Lucas-Kanade Object Tracking](HW3/)
 - Simple Lucas & Kanade Tracker with Naive Template Update
 - Lucas & Kanade Tracker with Template Correction
 - Two-dimensional Tracking with a Pure Translation Warp Function
@@ -43,7 +43,7 @@
 </p>
   
   
-### [HW4](HW4/): 3D Reconstruction
+### [4: Structure from Motion - 3D Reconstruction](HW4/)
 - Fundamental Matrix Estimation using Point Correspondence
 - Metric Reconstruction
 - Retrieval of Camera Matrices up to a Scale and Four-Fold Rotation Ambiguity
