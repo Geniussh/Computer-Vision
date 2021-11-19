@@ -61,3 +61,12 @@
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/result/rotation2.gif" width="250px">
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW4/result/rotation1.gif" width="250px">
 </p>
+  
+  
+### [5: Neural Networks for Recognition](HW5/)
+- Manual Implementation of a Fully Connected Network
+- Text Extraction from Images of Handwritten Characters
+- Image Compression with Autoencoders
+- PyTorch Implementation of a Convolutional Neural Network
+- Fine Tuning of SqueezeNet in PyTorch
+- Comparison between Fine Tuning and Training from Scratch
