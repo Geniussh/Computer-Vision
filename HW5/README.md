@@ -15,7 +15,9 @@
 ## Results
 * Confusion Matrix on NIST36 using the 2-layer FC Network  
   
-![image](https://github.com/Geniussh/Computer-Vision/blob/main/HW5/results/q3_4.png)
+<p float="left">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW5/results/q3_4.png" height="200px">
+</p>
 
 * Text Extraction By Row (Original -- Detected -- Extracted)  
   
@@ -24,7 +26,6 @@
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW5/results/q4_3_4.png" height="200px">
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW5/results/input4.png" height="200px">
 </p>
-
   
 * Autoencoder on NIST36
   
@@ -34,4 +35,8 @@
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW5/results/q5_3_9.png" height="200px">
 </p>
   
-
+* Fine Tuning of SqueezeNet vs. Training LeNet from Scratch on Flowers 17
+<p float="left">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW5/results/q6_2_ft.png" height="300px" width="400px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW5/results/q6_2_ln2.png" height="300px" width="400px">
+</p>
