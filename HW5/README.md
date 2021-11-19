@@ -16,7 +16,7 @@
 * Confusion Matrix on NIST36 using the 2-layer FC Network  
   
 <p float="left">
-  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW5/results/q3_4.png" height="200px">
+  <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW5/results/q3_4.png" height="350px">
 </p>
 
 * Text Extraction By Row (Original -- Detected -- Extracted)  
