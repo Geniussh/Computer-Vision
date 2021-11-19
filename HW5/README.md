@@ -19,7 +19,8 @@
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW5/results/q3_4.png" height="350px">
 </p>
 
-* Text Extraction By Row (Original -- Detected -- Extracted)  
+* Text Extraction By Row  
+   * Original -- Detected -- Extracted  
   
 <p float="left">
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW5/images/04_deep.jpg" height="200px">
