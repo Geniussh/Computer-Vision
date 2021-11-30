@@ -1,11 +1,11 @@
 # Course Projects in Computer Vision at CMU
 > ***Any Copying from the work of another person is a violation of [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).***
   
-### [0: Color Channel Alignment and Image Warping ](HW0/)
+### 0. [Color Channel Alignment and Image Warping ](HW0/)
 <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW0/results/transformed.jpg" width="400px">
   
   
-### [1: Scene Classification System using Bag-of-words Approach with Spatial Pyramid Extension](HW1/)
+### 1. [Scene Classification System using Bag-of-words Approach with Spatial Pyramid Extension](HW1/)
 - Feature Extraction based on Filter Banks
 - K Means Clustering
 - Visual Word Dictionary
@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/44150278/136886336-e9075072-380a-4dbb-9338-4f023448f83b.png" width="500px">
   
   
-### [2: Augmented Reality with Planar Homographies](HW2/)
+### 2. [Augmented Reality with Planar Homographies](HW2/)
 - Direct Linear Transform
 - Matrix Decomposition to calculate Homography
 - Limitations of Planar Homography
@@ -29,7 +29,7 @@
 <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW2/result/ar.gif" width="400px">
   
   
-### [3: Lucas-Kanade Object Tracking](HW3/)
+### 3. [Lucas-Kanade Object Tracking](HW3/)
 - Simple Lucas & Kanade Tracker with Naive Template Update
 - Lucas & Kanade Tracker with Template Correction
 - Two-dimensional Tracking with a Pure Translation Warp Function
@@ -43,7 +43,7 @@
 </p>
   
   
-### [4: Structure from Motion - 3D Reconstruction](HW4/)
+### 4. [Structure from Motion - 3D Reconstruction](HW4/)
 - Fundamental Matrix Estimation using Point Correspondence
 - Metric Reconstruction
 - Retrieval of Camera Matrices up to a Scale and Four-Fold Rotation Ambiguity
@@ -63,7 +63,7 @@
 </p>
   
   
-### [5: Neural Networks for Recognition](HW5/)
+### 5. [Neural Networks for Recognition](HW5/)
 - Manual Implementation of a Fully Connected Network
 - Text Extraction from Images of Handwritten Characters
 - Image Compression with Autoencoders
@@ -72,7 +72,7 @@
 - Comparison between Fine Tuning and Training from Scratch
   
   
-### [6: Photometric Stereo](HW6/)
+### 6. [Photometric Stereo](HW6/)
 - Calibrated Photometric Stereo
 - Uncalibrated Photometric Stereo
 <p float="left">
