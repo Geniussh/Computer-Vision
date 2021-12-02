@@ -75,6 +75,7 @@
 ### 6. [Photometric Stereo](HW6/)
 - Calibrated Photometric Stereo
 - Uncalibrated Photometric Stereo
+- Generalized Bas-Relief Ambiguity
 <p float="left">
   <img src="https://user-images.githubusercontent.com/44150278/143799113-d53097e2-f191-4170-b159-948ed5bbff69.png" height="300px">
   <img src="https://github.com/Geniussh/Computer-Vision/blob/main/HW6/results/demo.gif" height="300px">
