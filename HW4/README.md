@@ -1,3 +1,5 @@
+> ***Any Copying from the work of another person is a violation of [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).***
+  
 ## To use
 * Run ```Q2 - Q4 Testing``` in ```main.py``` to visualize the fundamental matrix estimation (```displayEpipolarF```) and matching point searching (```epipolarMatchGUI```) through an interactive GUI. 
 * Run ```visualize.py``` to visualize the 3D point cloud reconstruction from a pair of images taken at different angles. 
