@@ -1,0 +1,1 @@
+> ***Any Copying from the work of another person is a violation of [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).***
