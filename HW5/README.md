@@ -1,3 +1,5 @@
+> ***Any Copying from the work of another person is a violation of [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).***
+  
 ## To use
 * Run ```get_data.sh``` to download both NIST36 and images used for text extraction
 * Run ```fetch_flowers17.sh``` to download [flowers 17](http://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html) or ```fetch_flowers102.sh``` to download [flowers 102](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
