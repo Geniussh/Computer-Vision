@@ -1,3 +1,5 @@
+> ***Any Copying from the work of another person is a violation of [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).***
+  
 ## To use  
 * Navigate to ```data``` and unzip all the data files. (I used up my LFS bandwidth so ...)  
 	* ```carseq.npy``` and ```girlseq.npy``` are datasets with purely translational objects (hence using a pure translation warp function in my Lucas Kanade tracker)
