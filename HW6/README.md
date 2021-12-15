@@ -1,3 +1,5 @@
+> ***Any Copying from the work of another person is a violation of [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).***
+  
 ## To Use
 * Run ```q1.py``` to see the results of calibrated photometric stereo
     * Simulation of a Lambertian sphere in an orthographic camera with changing light directions
